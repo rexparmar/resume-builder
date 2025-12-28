@@ -1,6 +1,4 @@
 # AI-Powered Resume Builder
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/rexparmar/resume.)
-
 This is a full-stack MERN application that allows users to create, manage, and share professional resumes with ease. It leverages AI to assist with content generation and offers multiple modern templates to choose from.
 
 ## Features
