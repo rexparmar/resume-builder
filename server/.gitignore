@@ -1,0 +1,75 @@
+############################
+# OS / Editor
+############################
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+############################
+# Environment Variables
+############################
+.env
+.env.*
+!.env.example
+
+############################
+# Node / Backend
+############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+############################
+# React / Frontend
+############################
+build/
+dist/
+.out/
+.cache/
+
+############################
+# Logs
+############################
+logs/
+*.log
+
+############################
+# Testing
+############################
+coverage/
+.nyc_output/
+cypress/videos/
+cypress/screenshots/
+.playwright/
+
+############################
+# MongoDB
+############################
+data/
+dump/
+*.mongodb
+*.bson
+
+############################
+# Docker
+############################
+docker-compose.override.yml
+*.pid
+
+############################
+# Cloud / Secrets
+############################
+*.pem
+*.key
+*.crt
+*.p12
+
+############################
+# Temporary files
+############################
+tmp/
+temp/
